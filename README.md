@@ -30,8 +30,7 @@ Before you begin, ensure you have met the following requirements:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/chat-application.git
-cd chat-application
+git clone https://github.com/Ananya-2304/Pager.git
 ```
 
 ### 2. Install dependencies
